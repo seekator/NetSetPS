@@ -1,0 +1,19 @@
+# User data / test data
+profiles.json
+settings.json
+*.log
+
+# Build artifacts (if you compile with PS2EXE later)
+*.exe
+*.pdb
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
